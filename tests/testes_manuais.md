@@ -23,7 +23,7 @@ O sistema aceita a confirmação do pedido, ignorando a formatação incorreta d
 O sistema deve bloquear a submissão e exibir mensagens de erro informando que o e-mail precisa de ter um formato válido (ex: `texto@dominio.com`) e que o nome não pode ser composto apenas por números.
 
 **Evidência:**
-[📹 Clique aqui para assistir ao vídeo: Falha de validação no checkout](./evidencias/bug-checkout-dados..mp4)
+[📹 Clique aqui para assistir ao vídeo: Falha de validação no checkout](./evidencias/bug-checkout-dados.mp4)
 
 ---
 
