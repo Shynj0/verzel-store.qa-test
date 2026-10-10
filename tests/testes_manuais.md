@@ -23,7 +23,7 @@ O sistema aceita a confirmação do pedido, ignorando a formatação incorreta d
 O sistema deve bloquear a submissão e exibir mensagens de erro informando que o e-mail precisa de ter um formato válido (ex: `texto@dominio.com`) e que o nome não pode ser composto apenas por números.
 
 **Evidência:**
-<video src="./evidencias/bug-checkout-dados.mp4" controls="controls" width="600"></video>
+[📹 Clique aqui para assistir ao vídeo: Falha de validação no checkout](./evidencias/bug-checkout-dados..mp4)
 
 ---
 
@@ -70,7 +70,7 @@ O número no ícone do carrinho altera para "1", mas o utilizador permanece na p
 O sistema deveria redirecionar o utilizador automaticamente para a página `/carrinho` ou exibir um Toast/Modal confirmando a adição do produto.
 
 **Evidência:**
-<video src="./evidencias/bug-feedback.mp4" controls="controls" width="600"></video>
+[📹 Clique aqui para assistir ao vídeo: Falta de feedback visual](./evidencias/bug-feedback.mp4)
 
 ---
 
