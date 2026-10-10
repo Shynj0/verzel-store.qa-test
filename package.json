@@ -1,0 +1,23 @@
+{
+  "name": "verzel-store.qa-test",
+  "version": "1.0.0",
+  "description": "Repositório dedicado ao teste de QA da Verzel",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shynj0/verzel-store.qa-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shynj0/verzel-store.qa-test/issues"
+  },
+  "homepage": "https://github.com/Shynj0/verzel-store.qa-test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5"
+  }
+}
